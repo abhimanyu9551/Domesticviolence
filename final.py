@@ -55,7 +55,7 @@ def sound_Rec():
 def mailmessage():
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
-    server.login("domesticviolencedemo@gmail.com", "domesticviolence@123")
+    server.login("domesticviolencedemo@gmail.com", "##############")
     server.sendmail("domesticviolencedemo@gmail.com","abhimanyu9551@gmail.com",'Domestic Violence Threat, Help neeeded immediately' )
     print('mail sent')
 
