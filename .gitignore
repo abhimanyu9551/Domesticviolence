@@ -1,0 +1,8 @@
+dv_ai/
+processed_dataset/
+balanced_dataset/
+dataset_split/
+*.wav
+*.h5
+*.keras
+__pycache__/
