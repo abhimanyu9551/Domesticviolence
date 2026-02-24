@@ -1,3 +1,5 @@
+*.keras
+*.tflite
 dv_ai/
 processed_dataset/
 balanced_dataset/
